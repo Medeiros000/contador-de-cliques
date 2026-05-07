@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base: 'https://github.com/Medeiros000/contador-de-cliques',
+  base: '/contador-de-cliques/',
 })

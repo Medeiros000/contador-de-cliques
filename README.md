@@ -122,4 +122,4 @@ A aplicação possui uma interface simples com:
 
 ---
 
-**Desenvolvido com ❤️ por Devstart**
+**Desenvolvido com ❤️ por [jrmedeiros.dev](mailto:jrmedeiros.dev@gmail.com)**
